@@ -1,1 +1,1 @@
-#Understanding design patterns: structural, behavioral and creational
+# Understanding design patterns: structural, behavioral and creational
